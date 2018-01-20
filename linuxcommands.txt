@@ -1,0 +1,3 @@
+hello this is the practice session of the Linux commands
+ls -l == displays the long list of the files in the present working directory
+grep command is generally used to find out the particular value
